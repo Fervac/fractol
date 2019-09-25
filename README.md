@@ -1,4 +1,4 @@
-Preview of the project :
+Preview:
 
 <a href="https://gyazo.com/c481cd35c085e156d65777b537abf755"><img src="https://i.gyazo.com/c481cd35c085e156d65777b537abf755.gif" alt="Image from Gyazo" width="590"/></a>
 
